@@ -8,3 +8,5 @@
   * https://code.visualstudio.com
 * EditorConfig for Visual Studio Code   
   * https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+* NPM
+  *  https://www.npmjs.com
